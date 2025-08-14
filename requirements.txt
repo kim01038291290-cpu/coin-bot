@@ -1,0 +1,10 @@
+ccxt
+pandas
+pandas_ta
+numpy
+python-dotenv
+loguru
+pydantic
+requests
+PyYAML
+pytest
